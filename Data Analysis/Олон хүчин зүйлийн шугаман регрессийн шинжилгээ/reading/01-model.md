@@ -2,10 +2,13 @@
 
 Олон хүчин зүйлийн регрессийн үндсэн загвар дараах байдалтай:
 
-$$
-y_i = \beta_0 + \beta_1 X_{i1} + \beta_2 X_{i2} + \cdots + \beta_p X_{ip} + \varepsilon_i
-\tag{2.1}
-$$
+$
+\begin{aligned}
+y_i =\;& \beta_0 + \beta_1 X_{i1} + \beta_2 X_{i2} \\
+      &+ \cdots + \beta_p X_{ip} + \varepsilon_i
+\end{aligned}
+\qquad \text{(2.1)}
+$
 
 Алдааны гишүүн $\varepsilon_i$ нь дундаж нь $0$, стандарт хазайлт нь $\sigma$ бүхий хэвийн (Normal) тархалттай гэж үзнэ.
 
